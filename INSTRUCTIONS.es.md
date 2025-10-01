@@ -55,6 +55,7 @@ Esto correrá automáticamente cada una de tus consultas y mostrará el resultad
 1. **¿Cuáles son las primeras 10 observaciones registradas?**  
    _Utiliza LIMIT para mostrar solo una parte de la tabla._
 
+
 2. **¿Qué identificadores de región (`region_id`) aparecen en los datos?**  
    _Usa SELECT DISTINCT para evitar repeticiones._
 
